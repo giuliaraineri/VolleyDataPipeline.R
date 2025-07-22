@@ -1,2 +1,9 @@
-# VolleyDataPipeline.R
-A set of R functions to build a data pipeline for volleyball match analysis, from raw DataVolley software exports to ready-to-analyze rally-level dataset.
+# 🏐 Volleyball Data Processing Pipeline
+This repository contains a custom data pipeline designed to process and structure volleyball match data for analysis and modeling. The pipeline was developed to transform raw action-by-action datasets (e.g., from Data Volley exports) into clean, enriched, and analysis-ready formats.  
+
+# 📊 Example Use Cases  
+Rally outcome prediction  
+Setter decision modeling  
+Team rotation analysis   
+Player performance evaluation  
+Visualization dashboards  
